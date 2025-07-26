@@ -1,0 +1,21 @@
+return {
+    "zig",
+    "yaml",
+    "python",
+    "ocaml",
+    "nim",
+    "markdown",
+    "latex",
+    "html",
+    "haskell",
+    "go",
+    "css",
+    "bash",
+    "rust",
+    "c",
+    "python",
+    "lua",
+    "java",
+    "javascript",
+}
+
