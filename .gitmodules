@@ -1,0 +1,57 @@
+[submodule "pack/complementary/start/nui.nvim"]
+	path = pack/complementary/start/nui.nvim
+	url = https://github.com/MunifTanjim/nui.nvim
+[submodule "pack/complementary/start/nvim-web-devicons"]
+	path = pack/complementary/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "pack/complementary/start/plenary.nvim"]
+	path = pack/complementary/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "pack/completion/start/cmp_luasnip"]
+	path = pack/completion/start/cmp_luasnip
+	url = https://github.com/saadparwaiz1/cmp_luasnip.git
+[submodule "pack/completion/start/cmp-nvim-lsp"]
+	path = pack/completion/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
+[submodule "pack/completion/start/friendly-snippets"]
+	path = pack/completion/start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets.git
+[submodule "pack/completion/start/LuaSnip"]
+	path = pack/completion/start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "pack/completion/start/nvim-cmp"]
+	path = pack/completion/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp.git
+[submodule "pack/highlighting/start/nvim-treesitter"]
+	path = pack/highlighting/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "pack/lsp/start/mason-lspconfig.nvim"]
+	path = pack/lsp/start/mason-lspconfig.nvim
+	url = https://github.com/williamboman/mason-lspconfig.nvim.git
+[submodule "pack/lsp/start/mason.nvim"]
+	path = pack/lsp/start/mason.nvim
+	url = https://github.com/williamboman/mason.nvim.git
+[submodule "pack/lsp/start/nvim-lspconfig"]
+	path = pack/lsp/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/themes/start/gruber-darker.nvim"]
+	path = pack/themes/start/gruber-darker.nvim
+	url = https://github.com/blazkowolf/gruber-darker.nvim.git
+[submodule "pack/themes/start/gruvbox.nvim"]
+	path = pack/themes/start/gruvbox.nvim
+	url = https://github.com/ellisonleao/gruvbox.nvim
+[submodule "pack/tools/start/Comment.nvim"]
+	path = pack/tools/start/Comment.nvim
+	url = https://github.com/numToStr/Comment.nvim.git
+[submodule "pack/tools/start/lualine.nvim"]
+	path = pack/tools/start/lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim.git
+[submodule "pack/tools/start/neo-tree.nvim"]
+	path = pack/tools/start/neo-tree.nvim
+	url = https://github.com/nvim-neo-tree/neo-tree.nvim.git
+[submodule "pack/tools/start/telescope.nvim"]
+	path = pack/tools/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "pack/tools/start/trouble.nvim"]
+	path = pack/tools/start/trouble.nvim
+	url = https://github.com/folke/trouble.nvim.git
